@@ -57,7 +57,7 @@ let footer = $(`
       </svg>
     </a>
 
-    <a class="social-button github" href="https://github.com/NEB1803/ursidae-website" target="_blank">
+    <a class="social-button github" href="https://github.com/NEB1803/" target="_blank">
     <!-- SVG code for Github icon -->
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
         <!-- body -->
@@ -71,7 +71,7 @@ let footer = $(`
     </svg>
     </a>
       <div>
-        <li><basefont><a href="https://neb1803.github.io/ target="_blank">Copyright © URSIDAE 2021</a>                    created by <a href="https://github.com/neb1803" target="_blank">NEB1803</a></basefont></li>
+        <li><basefont><a href="https://discord.ursidae.ga/ target="_blank">Copyright © URSIDAE 2021</a>                    created by <a href="https://neb1803.tk/" target="_blank">NEB1803</a></basefont></li>
       </div>
     </div>
     </div>
