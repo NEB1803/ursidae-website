@@ -1,4 +1,4 @@
-var url = "https://api.minetools.eu/ping/185.248.134.134/11043"; //insert  server here
+var url = "https://api.minetools.eu/ping/play.ursidae.ga/25565"; //insert  server here
 
 $.getJSON(url, function(r) {
   //data is the JSON string
